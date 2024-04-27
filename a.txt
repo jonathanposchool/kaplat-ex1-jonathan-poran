@@ -1,2 +1,3 @@
 first text in a file, step B
 changing a txt in B1 branch, step g
+adding changes, stag o
